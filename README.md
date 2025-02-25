@@ -16,9 +16,9 @@ The repository currently includes threat hunting guides for the following sector
 
 | Sector | Description | Key Focus Areas |
 |--------|-------------|-----------------|
-| [Healthcare](./healthcare-sector-threat-hunting.md) | Threat hunting guide for healthcare organizations | Medical devices, PHI protection, HIPAA compliance |
-| [Manufacturing](./manufacturing-sector-threat-hunting.md) | Threat hunting guide for manufacturing companies | OT/ICS security, intellectual property, supply chain |
-| [Banking](./banking-sector-threat-hunting.md) | Threat hunting guide for financial institutions | Transaction monitoring, SWIFT networks, fraud detection |
+| [Healthcare](./healthcare.md) | Threat hunting guide for healthcare organizations | Medical devices, PHI protection, HIPAA compliance |
+| [Manufacturing](./manufacturing.md) | Threat hunting guide for manufacturing companies | OT/ICS security, intellectual property, supply chain |
+| [Banking](./banking.md) | Threat hunting guide for financial institutions | Transaction monitoring, SWIFT networks, fraud detection |
 
 ## Guide Structure
 
